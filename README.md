@@ -11,6 +11,7 @@
   <img align="center" alt="Rafa-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Rafa-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
  
   <img align="right" alt="Rafa-pic"  height="150"  src="https://i.postimg.cc/bJ6QXyD5/fbavatar-1639677717926-6877306811007991449.png">
 </div>
