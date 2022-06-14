@@ -1,5 +1,3 @@
-49 lines (37 sloc)  3.66 KB
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=header&text=José Leonardo+Souza+Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+José+Leonardo;I'm+18+years+old;I+from+Barueri,+SP;I+study+Systems+Development+at+Cruzeiro+do+Sul;Be+Welcome!+:%29)](https://git.io/typing-svg)
