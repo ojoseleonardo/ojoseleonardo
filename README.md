@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/ojoseleoo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/ojoseleonardo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/joseleosantos/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-A020F0?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://www.youtube.com/channel/UCuop-rLdh4PWBKdFVN-xGVA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-A020F0?style=for-the-badge&logo=youtube&logoColor=white"</a>
 <a href="https://wa.me/+5511953184424?text=Ol%C3%A1%20Jos%C3%A9%20Leonardo,%20Tudo%20bem?" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-A020F0?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
