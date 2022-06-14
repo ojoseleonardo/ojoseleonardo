@@ -1,26 +1,53 @@
-## Olá, Tudo Bem? 👋 Eu sou o José Leonardo, Seja Bem-Vindo!
-<div align="center">
-  <a href="https://github.com/ojoseleonardo">
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=ojoseleonardo&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <!--img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoseleonardo&layout=compact&langs_count=7&theme=jolly"/-->
+49 lines (37 sloc)  3.66 KB
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=header&text=José Leonardo+Souza+Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+José+Leonardo;I'm+18+years+old;I+from+Barueri,+SP;I+study+Systems+Development+at+Cruzeiro+do+Sul;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ojoseleonardo&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117" alt="José Leonardo Souza Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoseleonardo&layout=compact&hide_border=true&title_color=A020F0&text_color=A020F0&bg_color=0d1117" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ojoseleonardo&theme=cottoncandy&hide_border=true&area=true)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ojoseleonardo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+<a href="https://www.instagram.com/ojoseleoo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/ojoseleoo_/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-A020F0?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.instagram.com/ojoseleoo_/" target="_blank"><img src="https://img.shields.io/badge/-Youtube-A020F0?style=for-the-badge&logo=youtube&logoColor=white"</a>
+<a href="https://www.instagram.com/ojoseleoo_/" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-A020F0?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+</div> 
+
+### Main skills:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+### Other Knowledge:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ojoseleonardo}/count.svg" /></p> 
+<br></div>
 
  
-  <img align="right" alt="Rafa-pic"  height="150"  src="https://i.postimg.cc/bJ6QXyD5/fbavatar-1639677717926-6877306811007991449.png">
-</div>
-  
-  ###
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCuop-rLdh4PWBKdFVN-xGVA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ojoseleoo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joseleosantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5511953184424" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
- 
- <!--  ![Snake animation](https://github.com/ojoseleonardo/ojoseleonardo/blob/output/github-contribution-grid-snake.svg) -->
-</div>
