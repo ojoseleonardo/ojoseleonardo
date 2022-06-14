@@ -15,9 +15,9 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/ojoseleoo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.instagram.com/ojoseleoo_/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-A020F0?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href=["https://www.instagram.com/ojoseleoo_/](https://www.youtube.com/channel/UCuop-rLdh4PWBKdFVN-xGVA)" target="_blank"><img src="https://img.shields.io/badge/-Youtube-A020F0?style=for-the-badge&logo=youtube&logoColor=white"</a>
-<a href="[https://www.instagram.com/ojoseleoo_/](https://www.linkedin.com/in/joseleosantos/)" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-A020F0?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/joseleosantos/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-A020F0?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.youtube.com/channel/UCuop-rLdh4PWBKdFVN-xGVA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-A020F0?style=for-the-badge&logo=youtube&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/joseleosantos/" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-A020F0?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
 </div> 
 
 ### Main skills:
