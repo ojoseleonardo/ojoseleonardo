@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ojoseleonardo&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117" alt="José Leonardo Souza Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoseleonardo&layout=compact&hide_border=true&title_color=ffcfe9&text_color=ffcfe9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoseleonardo&layout=compact&hide_border=true&title_color=ff79c6&text_color=ff79c6&bg_color=0d1117" />
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=ojoseleonardo&hide_border=true&area=true&theme=react-dark&color=A020F0&line=A020F0&area_color=A020F0)
@@ -14,10 +14,10 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/ojoseleonardo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/joseleosantos/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-A020F0?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://www.youtube.com/channel/UCuop-rLdh4PWBKdFVN-xGVA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-A020F0?style=for-the-badge&logo=youtube&logoColor=white"</a>
-<a href="https://wa.me/+5511953184424?text=Ol%C3%A1%20Jos%C3%A9%20Leonardo,%20Tudo%20bem?" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-A020F0?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+<a href="https://www.instagram.com/ojoseleonardo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/joseleosantos/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-ff79c6?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.youtube.com/channel/UCuop-rLdh4PWBKdFVN-xGVA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-ff79c6?style=for-the-badge&logo=youtube&logoColor=white"</a>
+<a href="https://wa.me/+5511953184424?text=Ol%C3%A1%20Jos%C3%A9%20Leonardo,%20Tudo%20bem?" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-ff79c6?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
 </div> 
 
 ### Main skills:
