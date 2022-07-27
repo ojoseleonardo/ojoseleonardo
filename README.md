@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoseleonardo&layout=compact&hide_border=true&title_color=A020F0&text_color=A020F0&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ojoseleonardo&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ojoseleonardo&hide_border=true&area=true&theme=react-dark&color=A020F0&line=A020F0&area_color=A020F0)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ojoseleonardo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
