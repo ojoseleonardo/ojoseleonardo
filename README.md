@@ -10,7 +10,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=ojoseleonardo&hide_border=true&area=true&theme=react-dark&color=A020F0&line=A020F0&area_color=A020F0)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ojoseleonardo&theme=dracula&row=2&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ojoseleonardo&theme=radical&row=2&column=3&margin-w=15&margin-h=15&bg_color=0d1117" />
 </p>
 
 <div align="center">  
@@ -21,7 +21,7 @@
 </div> 
 
 ### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&bg_color=0d1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp; 
