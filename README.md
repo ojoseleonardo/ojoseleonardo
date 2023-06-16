@@ -1,8 +1,8 @@
-# 🦧 José Leonardo
+# José Leonardo Souza Santos
 
-**`Java Developer`**
+**`Desenvolvedor Java -  JSF, JEE, JSP e Servlets | ORM, JPA, Maven e Hibernate | Angular, Spring & Micro Serviços`**
 
-I'm an Java Developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]".
+I'm an Java Developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel [Leox][youtube].
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
