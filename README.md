@@ -1,4 +1,4 @@
-o# José Leonardo Souza Santos
+# José Leonardo Souza Santos
 
 **`Java Developer - JSF, JEE, JSP e Servlets | ORM, JPA, Maven e Hibernate | Angular, Spring & Micro Services`**
 
