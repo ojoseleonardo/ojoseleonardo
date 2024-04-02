@@ -2,7 +2,7 @@
 
 **`Java Developer - JSF, JEE, JSP e Servlets | ORM, JPA, Maven e Hibernate | Angular, Spring & Micro Services`**
 
-I'm an Java Developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+As a proficient Java developer with experience in Python, I specialize in automating processes to enhance operational efficiency. My expertise encompasses the creation of tailored solutions to meet business needs effectively. Additionally, I leverage my skills to produce educational programming content on YouTube, contributing to the dissemination of knowledge within the developer community.
 
    <!-- p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -67,22 +67,10 @@ I'm an Java Developer and content creator building my version of the digital wor
 <details>
 <summary><h3>👨‍💻 About Me!</h3></summary>
 hey,
-I'm 19 years old and I'm a Java developer. I'm studying Systems Analysis and Development at Faculdade Cruzeiro do Sul.
+I'm 19 years old and I'm a Java developer. I'm studying Systems Analysis and Development at Universidade Presbiteria Mackenzie.
 
 What is my experience?
-I worked at Prime IT Solutions, in an AWB project (Bradesco Web Architecture) with Java and JSF. I'm a content creator, I make videos about programming tutorials,
-I also post content about programming on social networks and I still do some services as a freelancer.
 
-What are my expertise?
-- Java & Javascript
-- JSF, JEE, JSP and Servlets
-- ORM, JPA, Maven and Hibernate
-- MVC and Unit Testing
-- Spring & Micro Services
-- Postman & Docker
-- Jira, Kanban & Scrum
+I was employed at Prime IT Solutions, where my focus revolved around Java development and JSF (JavaServer Faces). I'm a content creator; I produce videos about programming tutorials and also share programming content on social networks. Additionally, I still provide freelance services. Currently, I work at Russo Enterprise, where I use Python to automate various fiscal and financial processes. This role involves developing efficient solutions to streamline our operations and ensure accuracy in our daily activities. Python has proven to be a powerful tool, allowing me to create scripts and programs that simplify complex tasks, providing a competitive advantage for our company in the current market. I'm constantly seeking ways to enhance our systems and identify new opportunities to apply my Python expertise, aiming to further improve our internal processes and contribute to the ongoing success of Russo Enterprise.
   
 I consider myself agile and consistent in learning a new language and adapting to any change, ready to overcome any challenge! If I could define myself in 3 words, they would certainly be: optimistic, persevering and hardworking.
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
