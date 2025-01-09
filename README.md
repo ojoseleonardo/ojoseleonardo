@@ -67,7 +67,6 @@ As a proficient Java developer with experience in Python, I specialize in automa
 
 <details>
 <summary><h3>👨‍💻 About Me!</h3></summary>
-hey, <br />
 I'm 20 years old and I'm a Java developer. I'm studying Systems Analysis and Development at Universidade Presbiteria Mackenzie.
 <br /><br />
 What is my experience?
