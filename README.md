@@ -72,6 +72,7 @@ I'm 20 years old and I'm a Java developer. I'm studying Systems Analysis and Dev
 
 What is my experience?
 
-I was employed at Prime IT Solutions, where my focus revolved around Java development and JSF (JavaServer Faces). I'm a content creator; I produce videos about programming tutorials and also share programming content on social networks. Additionally, I still provide freelance services. Currently, I work at Russo Enterprise, where I use Python to automate various fiscal and financial processes. This role involves developing efficient solutions to streamline our operations and ensure accuracy in our daily activities. Python has proven to be a powerful tool, allowing me to create scripts and programs that simplify complex tasks, providing a competitive advantage for our company in the current market. I'm constantly seeking ways to enhance our systems and identify new opportunities to apply my Python expertise, aiming to further improve our internal processes and contribute to the ongoing success of Russo Enterprise.
+I worked for two years at Prime IT Solutions as a Java developer on a Bradesco project, using technologies such as JSF, JEE, JSP, JavaScript, and Servlets. Later, I worked at Russo's, where I performed task automations and report generation using Python.
+Currently, I am part of Growth 7 Group, collaborating on projects focused on automation, system integrations, and workflow optimization.
   
 I consider myself agile and consistent in learning a new language and adapting to any change, ready to overcome any challenge! If I could define myself in 3 words, they would certainly be: optimistic, persevering and hardworking.
