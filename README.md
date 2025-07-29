@@ -67,11 +67,12 @@ As a proficient Java developer with experience in Python, I specialize in automa
 
 <details>
 <summary><h3>👨‍💻 About Me!</h3></summary>
-I'm 20 years old and I'm a Java developer. I'm studying Systems Analysis and Development at Universidade Presbiteria Mackenzie.
-<br /><br />
-What is my experience?
-
-I worked for two years at Prime IT Solutions as a Java developer on a Bradesco project, using technologies such as JSF, JEE, JSP, JavaScript, and Servlets. Later, I worked at Russo's, where I performed task automations and report generation using Python.
-Currently, I am part of Growth 7 Group, collaborating on projects focused on automation, system integrations, and workflow optimization.
-<br /><br />
-I consider myself agile and consistent in learning a new language and adapting to any change, ready to overcome any challenge! If I could define myself in 3 words, they would certainly be: optimistic, persevering and hardworking.
+I’m 21 years old and a software developer. Throughout my journey, I’ve worked on diverse and challenging projects.
+<br/>
+I spent two years at Prime IT Solutions, developing Java solutions for a Bradesco project, using technologies like JSF, JEE, JSP, Servlets, and JavaScript. After that, I worked at Russo's, focusing on automating tasks and reports with Python.
+<br/>
+More recently, I was part of the Grupo Growth 7 team, contributing to projects involving automation, system integrations, and workflow improvements.
+<br/>
+Currently, I’m venturing into entrepreneurship. I’m building my own solution, combining technical knowledge with product vision, learning hands-on how to turn ideas into real, useful products.
+<br/>
+If I had to describe myself in three words, they would be: optimistic, perseverant, and hardworking.
