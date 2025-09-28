@@ -57,7 +57,7 @@ As a proficient Java developer with experience in Python, I specialize in automa
 
 #
 
-![Imagem]([https://i.pinimg.com/736x/06/e3/c1/06e3c1b63bf33cfa6812e1e5cf5e2f05.jpg](https://i.pinimg.com/1200x/40/fd/22/40fd2291d88d6b1cd79ecd3b2b02de86.jpg))
+![Imagem]([https://i.pinimg.com/736x/06/e3/c1/06e3c1b63bf33cfa6812e1e5cf5e2f05.jpg](https://i.pinimg.com/1200x/40/fd/22/40fd2291d88d6b1cd79ecd3b2b02de86.jpg)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
