@@ -1,8 +1,7 @@
 # José Leonardo Souza Santos
+**`Full-Stack Developer | Automation & RPA Specialist | Python, JavaScript, React, Node.js, AWS | CRM Bitrix24, Make.com, n8n | PostgreSQL, Web Scraping, Chatbots`**
 
-**`Java Developer - JSF, JEE, JSP e Servlets | ORM, JPA, Maven e Hibernate | Angular, Spring & Micro Services`**
-
-As a proficient Java developer with experience in Python, I specialize in automating processes to enhance operational efficiency. My expertise encompasses the creation of tailored solutions to meet business needs effectively. Additionally, I leverage my skills to produce educational programming content on YouTube, contributing to the dissemination of knowledge within the developer community.
+Full stack developer passionate about automation and technological innovation. Expert in creating intelligent scripts, RPA solutions, and N8N workflows that eliminate manual work. Always staying up-to-date with the latest tech trends - from new frameworks to DevOps tools that can revolutionize development.
        
 
    <!-- p align="left">
