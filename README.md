@@ -59,7 +59,7 @@ As a proficient Java developer with experience in Python, I specialize in automa
 
 #
 
-![Imagem](https://i.pinimg.com/1200x/24/58/a6/2458a618dbfc775bffc13282df7721a7.jpg)
+![Imagem](https://i.pinimg.com/736x/79/9e/2e/799e2ee0f91b8390d916c6a6ea77c323.jpg)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
