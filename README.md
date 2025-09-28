@@ -58,7 +58,7 @@ Full stack developer passionate about automation and technological innovation. E
 
 #
 
-<img src="https://i.pinimg.com/736x/79/9e/2e/799e2ee0f91b8390d916c6a6ea77c323.jpg" alt="Imagem" width="100%">
+<img src="https://i.pinimg.com/1200x/58/e0/11/58e0112e2a59f23e8a181c2ff2379eb5.jpg" alt="Imagem" width="100%">
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
