@@ -57,7 +57,7 @@ As a proficient Java developer with experience in Python, I specialize in automa
 
 #
 
-<img src="https://i.pinimg.com/1200x/40/fd/22/40fd2291d88d6b1cd79ecd3b2b02de86.jpg" alt="Imagem" width="300">
+![Imagem](https://i.pinimg.com/1200x/24/58/a6/2458a618dbfc775bffc13282df7721a7.jpg)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
