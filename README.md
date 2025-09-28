@@ -59,7 +59,7 @@ As a proficient Java developer with experience in Python, I specialize in automa
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojoseleonardo&show_icons=true&theme=gruvbox)
+![Imagem](https://i.pinimg.com/736x/06/e3/c1/06e3c1b63bf33cfa6812e1e5cf5e2f05.jpg)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
